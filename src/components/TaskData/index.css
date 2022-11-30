@@ -1,0 +1,21 @@
+.tasks-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.tasks-text {
+  color: #ffffff;
+  font-size: 17px;
+  font-family: 'Roboto';
+}
+.tags-text {
+  background-color: #f3aa4e;
+  color: #1a171d;
+  padding: 5px 12px;
+  font-weight: 600;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
